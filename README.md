@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Simple Shell <img src="https://cdn-icons-png.flaticon.com/128/6821/6821173.png" width=60 align=center> </h1>
   <h6>
-    <a href="https://github.com/AlMonther9/simple_shell#man-page-">Man Page</a>
+    <a href="https://github.com/husseinzomar/simple_shell#man-page-">Man Page</a>
     ·
-    <a href="https://github.com/AlMonther9/simple_shell#compilation-">Compilation</a>
+    <a href="https://github.com/husseinzomar/simple_shell#compilation-">Compilation</a>
     ·
-    <a href="https://github.com/AlMonther9/simple_shell#list-of-built-in-commands-">Commands</a>
+    <a href="https://github.com/husseinzomar/simple_shell#list-of-built-in-commands-">Commands</a>
     ·
-    <a href="https://github.com/AlMonther9/simple_shell#usage-">Usage</a>
+    <a href="https://github.com/husseinzomar/simple_shell#usage-">Usage</a>
   </h6>
-  <img src="https://img.shields.io/github/repo-size/AlMonther9/simple_shell?color=E1927F&labelColor=1a1e29&style=for-the-badge">
+  <img src="https://img.shields.io/github/repo-size/husseinzomar/simple_shell?color=E1927F&labelColor=1a1e29&style=for-the-badge">
 </div>
 
 ## Description <img src="https://cdn-icons-png.flaticon.com/128/1903/1903496.png" width=45 align=center>
