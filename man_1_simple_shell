@@ -27,4 +27,4 @@ The shell can be used in interactive or non-interactive mode. The interactive mo
 \recho "ls -l" | ./hsh
 
 .SH .TP AUTHOR
-AlMonther Abdulhafeez @AlMonther9
+Husseinzomar @HusseinZomar
