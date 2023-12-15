@@ -73,9 +73,5 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 ```
 
-## Authors <img src="https://cdn-icons-png.flaticon.com/128/2463/2463510.png" width=50 align=center>
-
-* AlMonther Abdulhafeez <a href="https://github.com/AlMonther9" a>
-<br>
 
 > Project developed during the [Alx, Holberton School](https://www.holbertonschool.com/) program.
